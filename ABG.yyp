@@ -951,6 +951,25 @@
             }
         },
         {
+            "Key": "9af9dd3f-605c-4800-88b7-8cb4b75d7d00",
+            "Value": {
+                "id": "316f523a-9876-49aa-9b51-d5f11cf46b6b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_guy_cleo\/obj_guy_cleo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b4d1cd7-c41c-48ae-b7ad-51326b4abd7f",
             "Value": {
                 "id": "56e4ca34-eeb4-4be5-99be-88f94b43db27",
