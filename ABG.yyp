@@ -476,6 +476,25 @@
             }
         },
         {
+            "Key": "3c076d60-33f7-4162-9f40-d84f4dc1874f",
+            "Value": {
+                "id": "f1228aae-7d19-40e1-829c-54a3f335feaa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_guy_ben\/obj_guy_ben.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e47794b-0398-4dc5-a57f-947f7e2b2cfc",
             "Value": {
                 "id": "8680f16e-7c69-44f2-b70e-18c2635ae6c9",

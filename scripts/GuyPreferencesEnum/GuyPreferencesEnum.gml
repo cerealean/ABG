@@ -10,4 +10,9 @@ enum GuyPreferences {
 	//Entertainment
 	VideoGames,
 	BoardGames,
+	
+	//Music
+	RockMusic,
+	CountryMusic,
+	PopMusic,
 }
