@@ -1,3 +1,4 @@
 enum NewSetupAction {
-	Submit = 0
+	None = 0,
+	Submit = 1
 }

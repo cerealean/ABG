@@ -2,8 +2,8 @@
 {
     "name": "rm_setup_new",
     "id": "b3d6116d-7ae2-4479-97ca-4d6334bdf288",
-    "creationCodeFile": "",
-    "inheritCode": true,
+    "creationCodeFile": "RoomCreationCode.gml",
+    "inheritCode": false,
     "inheritCreationOrder": true,
     "inheritLayers": true,
     "instanceCreationOrderIDs": [

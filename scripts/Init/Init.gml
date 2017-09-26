@@ -3,7 +3,9 @@ var key = "rawr";
 safe_ini_open("playerSettings.ini", key);
 
 //Player Settings
-global.playerName = safe_ini_read_string("Player","Name","");
+global.playerFirstName = safe_ini_read_string("Player","FirstName","");
+global.playerLastName = safe_ini_read_string("Player","LastName","");
+global.playerEmail = safe_ini_read_string("Player","Email","");
 global.playerMoney = safe_ini_read_real("Player","Money",0);
 
 //Cafe Settings
@@ -22,3 +24,5 @@ global.enabledMenuItems[? "BlackCoffee"] = safe_ini_read_real("EnabledMenuItems"
 global.enabledMenuItems[? "Latte"] = safe_ini_read_real("EnabledMenuItems","Latte", false);
 
 safe_ini_close();
+
+global.inputVariables = ds_map_create();

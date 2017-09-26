@@ -4,7 +4,12 @@ image_index = real(doesMouseCollide);
 
 if(doesMouseCollide && mouse_check_button_released(mb_left)){
 	if(action == NewSetupAction.Submit){
-		
-		//var firstName = room_get
+		global.playerFirstName = global.inputVariables[? "playerFirstName"];
+		global.playerLastName = global.inputVariables[? "playerLastName"];
+		global.playerEmail = global.inputVariables[? "playerEmail"];
+		ds_map_delete(global.inputVariables, "playerFirstName");
+		ds_map_delete(global.inputVariables, "playerLastName");
+		ds_map_delete(global.inputVariables, "playerEmail");
+		SavePlayerInfo();
 	}
 }

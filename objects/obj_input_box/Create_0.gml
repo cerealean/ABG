@@ -5,3 +5,4 @@ textColor = c_white;
 textAlign = fa_center;
 placeholder = "";
 active = false;
+mapTo = "";

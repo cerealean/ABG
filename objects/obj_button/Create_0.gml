@@ -4,4 +4,4 @@ image_index = 0;
 text = "";
 textColor = c_navy;
 textAlign = fa_center;
-action = null;
+action = NewSetupAction.None;
