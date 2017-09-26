@@ -1,5 +1,6 @@
 enum EntertainmentPreferences {
 	VideoGames,
 	BoardGames,
-	WorkingOut
+	WorkingOut,
+	Outdoors,
 }

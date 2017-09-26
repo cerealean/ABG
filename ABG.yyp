@@ -1027,6 +1027,25 @@
             }
         },
         {
+            "Key": "9da61841-211c-4535-9810-433927a353f2",
+            "Value": {
+                "id": "ebd2e530-b876-45ea-b9b8-18a8246d9bc4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_guy_taylor\/obj_guy_taylor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9f776f61-b8af-4727-bd3e-ed783f40aa94",
             "Value": {
                 "id": "c83d86d6-38bf-4b02-8744-c092129d3719",
