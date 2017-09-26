@@ -1,0 +1,2 @@
+Converting GML script : ${project_dir}/scripts/device_get_id/device_get_id.gml
+Converted description : /// @description  device_get_id();/// @function  device_get_id

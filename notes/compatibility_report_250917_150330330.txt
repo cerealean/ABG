@@ -1,0 +1,2 @@
+Converting GML script : gmkb_common.gml
+Converted string : line 68 : "\#" -> "\\#"

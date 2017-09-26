@@ -1,0 +1,27 @@
+Converting GML script : ${project_dir}/scripts/gmkb_example_textbox_value_to_screen/gmkb_example_textbox_value_to_screen.gml
+Converted string : line 1 : "\#" -> "\\#"
+
+Converting GML script : ${project_dir}/scripts/gmkb_example_input_get_line_width/gmkb_example_input_get_line_width.gml
+Converted description : /// @description  gmkb_example_input_get_line_width(line, from_start_to_pos)/// @function  gmkb_example_input_get_line_width
+/// @param line
+/// @param  from_start_to_pos
+
+Converting GML script : ${project_dir}/scripts/gmkb_example_input_refresh_cursor/gmkb_example_input_refresh_cursor.gml
+Converted description : /// @description  gmkb_example_input_refresh_cursor()/// @function  gmkb_example_input_refresh_cursor
+
+Converting GML script : ${project_dir}/scripts/gmkb_example_input_set_cursor_position/gmkb_example_input_set_cursor_position.gml
+Converted description : /// @description  gmkb_example_input_set_cursor_position(pos)/// @function  gmkb_example_input_set_cursor_position
+/// @param pos
+
+Converting GML script : ${project_dir}/scripts/gmkb_example_input_refresh_text/gmkb_example_input_refresh_text.gml
+Converted description : /// @description  gmkb_example_input_refresh_text()/// @function  gmkb_example_input_refresh_text
+
+Converting GML script : ${project_dir}/scripts/gmkb_example_input_refresh_view/gmkb_example_input_refresh_view.gml
+Converted description : /// @description  gmkb_example_input_refresh_view(just_validate)/// @function  gmkb_example_input_refresh_view
+/// @param just_validate
+
+Converting GML script : ${project_dir}/scripts/gmkb_example_input_set_active/gmkb_example_input_set_active.gml
+Converted description : /// @description  gmkb_example_input_set_active(set_active)/// @function  gmkb_example_input_set_active
+/// @param set_active
+
+Font gmkb_font_default has been converted to font family Arial (Regular). Font has been regenerated, small inconsistencies may occur.
