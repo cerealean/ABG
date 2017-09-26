@@ -210,6 +210,25 @@
             }
         },
         {
+            "Key": "1ea9b637-b50c-4c5b-94ba-36732d8e6798",
+            "Value": {
+                "id": "a6437291-ae7d-44e4-8309-042c1f464922",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/BeveragePreferencesEnum\/BeveragePreferencesEnum.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "217c8950-66a2-4263-85dd-4e512071927e",
             "Value": {
                 "id": "f680c62a-2726-43ee-a5a9-b0587dff6910",
@@ -530,25 +549,6 @@
                 ],
                 "resourcePath": "extensions\/Button_Pack_3\/Button_Pack_3.yy",
                 "resourceType": "GMExtension"
-            }
-        },
-        {
-            "Key": "44a5d857-5be4-4df7-966e-e66e87a2ec18",
-            "Value": {
-                "id": "d24171ae-4ba1-47f5-94a8-02c27e68f6d6",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "scripts\/GuyPreferencesEnum\/GuyPreferencesEnum.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -910,6 +910,25 @@
                 ],
                 "resourcePath": "scripts\/gmkb_example_input_set_active\/gmkb_example_input_set_active.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8bd22eb2-9305-41be-9b6a-fc7b312aab39",
+            "Value": {
+                "id": "e7a0a5b7-b605-4b47-96a9-b7202a7da031",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/8bd22eb2-9305-41be-9b6a-fc7b312aab39.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1350,6 +1369,25 @@
             }
         },
         {
+            "Key": "cdbede48-8e1e-4f0b-b7d9-8fe77f4873aa",
+            "Value": {
+                "id": "696a9504-0534-4181-af58-7c3633f48e3a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/MusicPreferencesEnum\/MusicPreferencesEnum.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ceb86b9e-4af4-43c6-81a2-60f9b85671d7",
             "Value": {
                 "id": "b45b228e-f38d-41a6-875a-072dc156c18b",
@@ -1366,6 +1404,25 @@
                 ],
                 "resourcePath": "views\/ceb86b9e-4af4-43c6-81a2-60f9b85671d7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cf4b33bc-afaa-4e41-8424-cc753cd5ca6a",
+            "Value": {
+                "id": "8f19d768-7730-4b29-9fa6-245a619ed2b2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/EnvironmentPreferencesEnum\/EnvironmentPreferencesEnum.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1460,6 +1517,44 @@
                     "default"
                 ],
                 "resourcePath": "scripts\/gmkb_example_input_get_line_width\/gmkb_example_input_get_line_width.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e0a3e089-77b9-4352-94e5-58163c3bcf86",
+            "Value": {
+                "id": "16865dc6-0568-4e98-9705-5009be070589",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_guy_chad\/obj_guy_chad.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e1a762f9-7ee8-4fc0-8cea-c24758376f2e",
+            "Value": {
+                "id": "a24287c0-190f-4f73-adcc-139fce99d984",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/EntertainmentPreferencesEnum\/EntertainmentPreferencesEnum.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -1594,6 +1689,25 @@
                 ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f57d0de7-786a-46ab-bfce-19502a8a0756",
+            "Value": {
+                "id": "96bccfba-c878-4186-825c-5e5dffb620d6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/FoodPreferencesEnum\/FoodPreferencesEnum.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1737,7 +1851,11 @@
         "fbee7ecf-8c30-48f3-82a9-567263b81116",
         "119de965-9284-4c04-978e-b14cbb4f0d2a",
         "ef17c4fe-9621-415b-bdc3-44c5cbd5e23e",
-        "44a5d857-5be4-4df7-966e-e66e87a2ec18",
+        "1ea9b637-b50c-4c5b-94ba-36732d8e6798",
+        "cf4b33bc-afaa-4e41-8424-cc753cd5ca6a",
+        "e1a762f9-7ee8-4fc0-8cea-c24758376f2e",
+        "cdbede48-8e1e-4f0b-b7d9-8fe77f4873aa",
+        "f57d0de7-786a-46ab-bfce-19502a8a0756",
         "f6466b5b-f866-4ffc-9c72-778c3d3e13a9",
         "88a7f28c-5b3e-4fa6-b238-98b4152c3eb7",
         "5f041708-d462-4f4c-8ca9-726d59fadc3c",

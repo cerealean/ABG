@@ -1,0 +1,4 @@
+enum BeveragePreferences {
+	Coffee,
+	Tea,
+}

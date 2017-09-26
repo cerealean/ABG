@@ -1,0 +1,4 @@
+enum EnvironmentPreferences {
+	Quiet,
+	Noisy,
+}

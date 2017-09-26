@@ -1,8 +1,8 @@
 {
-    "id": "44a5d857-5be4-4df7-966e-e66e87a2ec18",
+    "id": "cf4b33bc-afaa-4e41-8424-cc753cd5ca6a",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "GuyPreferencesEnum",
+    "name": "EnvironmentPreferencesEnum",
     "IsCompatibility": false,
     "IsDnD": false
 }
