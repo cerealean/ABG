@@ -1,8 +1,8 @@
 {
-    "id": "d71e90e6-1cd5-4b51-8f02-d963a2895378",
+    "id": "98e8cc4b-a233-4f51-a857-d1aadaf58a50",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "GetAllGuys",
+    "name": "IsEmpty",
     "IsCompatibility": false,
     "IsDnD": false
 }
