@@ -2,4 +2,4 @@
 /// @param inputVar Input variable to check
 /// @func IsEmpty(inputVar)
 
-return is_undefined(argument0) || argument0 == null || (is_string(argument0) && argument0 == "");
+return is_undefined(argument0) || (is_string(argument0) && argument0 == "");
