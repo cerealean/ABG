@@ -11,5 +11,6 @@ if(doesMouseCollide && mouse_check_button_released(mb_left)){
 		ds_map_delete(global.inputVariables, "playerLastName");
 		ds_map_delete(global.inputVariables, "playerEmail");
 		SavePlayerInfo();
+		room_goto(rm_temp_cafe);
 	}
 }

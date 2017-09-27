@@ -1,6 +1,6 @@
 
 {
-    "name": "temp_cafe",
+    "name": "rm_temp_cafe",
     "id": "59683f0f-de06-4ec1-91dc-9dcda054f4af",
     "creationCodeFile": "",
     "inheritCode": true,
